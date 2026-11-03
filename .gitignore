@@ -4,3 +4,5 @@ personal data/
 !.env.example
 __pycache__/
 *.pyc
+token/
+prometheus.yml.backup
